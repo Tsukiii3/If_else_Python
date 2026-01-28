@@ -5,8 +5,6 @@ A collection of beginner-friendly Python programs designed to practice basic pro
 
 # Projects Included
 
-#	Project	Description	Run
-
 #1 - 	Trip Cost Calculator	Calculates the cost of a trip based on distance.	trip_cost.py
 
 #2 -	Speeding Ticket Calculator	Checks speed limit and calculates fines if necessary.	speed_ticket.py
