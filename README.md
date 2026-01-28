@@ -41,7 +41,7 @@ Interactive and easy to run from the terminal.
 
 Clone this repository:
 
-**git clone https://github.com/tsukiii3/If_else_Python**
+**git clone https://github.com/Tsukiii3/If_else_Python**
 
 Navigate to the folder of the program you want to run:
 
