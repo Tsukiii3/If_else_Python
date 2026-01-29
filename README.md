@@ -99,7 +99,7 @@ This project was created for **study and practice**, helping beginners strengthe
 
 ##  Author
 
-**Tsukiii3**
+**Tsukiii3** - 
 Python enthusiast | GitHub | LinkedIn
 
 Feel free to explore, modify, and improve the scripts 🚀
