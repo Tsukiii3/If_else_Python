@@ -1,64 +1,106 @@
-# If_else_Python
+#  If_else_Python
+
 **Python Beginner Projects Collection**
 
-A collection of beginner-friendly Python programs designed to practice basic programming concepts, such as input/output, conditional statements, loops, randomization, arithmetic operations, and user interaction.
+This repository contains a collection of **beginner-friendly Python programs** created to practice fundamental programming concepts. The projects focus mainly on **conditional logic (`if / elif / else`)**, along with user input, arithmetic operations, simple games, and real-life problem solving.
 
-# Projects Included
+---
 
-#1 - 	Trip Cost Calculator	Calculates the cost of a trip based on distance.	trip_cost.py
+##  Contents
 
-#2 -	Speeding Ticket Calculator	Checks speed limit and calculates fines if necessary.	speed_ticket.py
+The scripts in this repository help reinforce core Python concepts, such as:
 
-#3 - 	Rock-Paper-Scissors Game	Classic game against the computer.	rock_paper_scissors.py
+* Input and output handling
+* Conditional statements (`if`, `elif`, `else`)
+* Arithmetic operations
+* Randomization
+* Basic logic and decision-making
+* Simple user interaction via terminal
 
-#4 -	Payment Method Calculator	Calculates final price based on payment method and discounts/interest.	payment_calculator.py
+---
 
-#5 -	Even or Odd Checker	Determines if a number is even or odd.	even_odd.py
+##  Projects Included
 
-#6 -	Leap Year Checker	Checks if a year is a leap year.	leap_year.py
+* **Trip Cost Calculator** → Calculates the cost of a trip based on distance
 
-#7 -	Highest and Lowest Number Finder	Finds the largest and smallest number among three inputs.	min_max.py
+* **Speeding Ticket Calculator** → Checks speed limit and calculates fines if necessary
+ 
 
-#8 -	Number Guessing Game	Guess the number chosen by the computer (0-5).	guess_number.py
+* **Rock-Paper-Scissors Game** → Classic game played against the computer
 
-#9 - 	Military Enlistment Checker	Checks if a person still needs to enlist, is on time, or overdue.	enlistment.py
 
-#10 -	Base Conversion Program	Converts a decimal number to binary, octal, or hexadecimal.	base_conversion.py
+* **Payment Method Calculator** → Calculates final price based on payment method, discounts, or interest
 
-#11 -	Average Grade Checker	Calculates the average of two grades and determines pass/fail.	average_grade.py
 
-**Features**
+* **Even or Odd Checker** → Determines whether a number is even or odd
 
-Beginner-friendly programs.
 
-Covers conditional **logic, loops, arithmetic, user input, randomization.**
+* **Leap Year Checker** → Checks if a given year is a leap year
 
-Real-life examples like speeding fines, trip costs, and payment discounts.
 
-Interactive and easy to run from the terminal.
+* **Highest and Lowest Number Finder** → Finds the largest and smallest number among three inputs
 
-**How to Run**
 
-Clone this repository:
+* **Number Guessing Game** → Guess the number chosen by the computer (0 to 5)
 
-**git clone https://github.com/Tsukiii3/If_else_Python**
 
-Navigate to the folder of the program you want to run:
+* **Military Enlistment Checker** → Checks if enlistment is pending, on time, or overdue
 
-cd python-beginner-projects
 
-**Run the Python script:**
+* **Base Conversion Program** → Converts a decimal number to binary, octal, or hexadecimal
 
-python filename.py
 
-Replace filename.py with the program name.
+* **Average Grade Checker** → Calculates the average of two grades and determines pass or fail
 
-**Notes**
 
-Programs are written in Python 3.
+---
 
-Only standard libraries are used: random and datetime.
+##  Technologies Used
 
-Follow the instructions in each program for proper input.
+* **Python 3**
+* Standard libraries only:
 
-**Author - Tsukiii3 – Python enthusiast | LinkedIn | GitHub**
+  * `random`
+  * `datetime`
+
+---
+
+##  How to Run
+
+Make sure you have **Python 3** installed.
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Tsukiii3/If_else_Python
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd If_else_Python
+```
+
+3. Run the desired script:
+
+```bash
+python file_name.py
+```
+
+Replace `file_name.py` with the name of the program you want to run.
+
+---
+
+##  Purpose
+
+This project was created for **study and practice**, helping beginners strengthen their understanding of conditional logic and basic Python programming through hands-on examples.
+
+---
+
+##  Author
+
+**Tsukiii3**
+Python enthusiast | GitHub | LinkedIn
+
+Feel free to explore, modify, and improve the scripts 🚀
+
