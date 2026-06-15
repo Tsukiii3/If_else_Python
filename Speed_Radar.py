@@ -1,4 +1,3 @@
-
 car = float(input('How fast are you driving? '))
 
 print('============================= SIGN 80KM/H==========================================')
